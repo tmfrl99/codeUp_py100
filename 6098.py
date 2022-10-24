@@ -22,7 +22,7 @@ while True:
         y += 1
     else:
         x += 1
-print()
+
 for i in range(1, 11):
     for j in range(1, 11):
         print(d[i][j], end=' ')
